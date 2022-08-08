@@ -1,0 +1,27 @@
+    <!--Menampilkan Gambar 2 -->
+    <!-- pertama pastikan gambar yang akan ditampilkan
+    berada pada folder yang sama dengan file html -->
+    <img src="2.jpg" width="200" height="200" align="right"
+    hspace="50" vspace="100" alt="Lambang 2: Rantai">
+    <h2> Kemanusiaan Yang Adil dan Beradab </h2>
+
+    <!--Menampilkan Gambar 3 -->
+    <!-- pertama pastikan gambar yang akan ditampilkan
+    berada pada folder yang sama dengan file html -->
+    <img src="3.png" width="200" height="200" align="left"
+    hspace="0" vspace="200" alt="Lambang 3: Pohon Beringin">
+    <h2> Persatuan Indonesia </h2>
+
+    <!--Menampilkan Gambar 4 -->
+    <!-- pertama pastikan gambar yang akan ditampilkan
+    berada pada folder yang sama dengan file html -->
+    <img src="4.png" width="200" height="200" align="right"
+    hspace="50" vspace="300" alt="Lambang 4: Banteng">
+    <h2> Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan Perwakilan </h2>
+
+    <!--Menampilkan Gambar 5 -->
+    <!-- pertama pastikan gambar yang akan ditampilkan
+    berada pada folder yang sama dengan file html -->
+    <img src="5.jpg" width="200" height="200" align="left"
+    hspace="50" vspace="400" alt="Lambang 5: Padi dan Kapas">
+    <h2> Keadilan Sosial bagi Seluruh Rakyat Indonesia </h2>
